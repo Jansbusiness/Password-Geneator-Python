@@ -5,6 +5,7 @@ Password Generator
 ==================
 ''')
 
+
 Chars = 'abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*().,?£'
 
 number = input('Number of passwords? - ')
