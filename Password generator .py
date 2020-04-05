@@ -17,4 +17,4 @@ for p in range(number):
     password = '' 
     for c in range(length):
         password += random.choice(Chars)
-    print(password)
+    print(" this is yor passwords",password)
